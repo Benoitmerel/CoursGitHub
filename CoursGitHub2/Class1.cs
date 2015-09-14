@@ -8,5 +8,6 @@ namespace CoursGitHub2
 {
     class Class1
     {
+        //COucou toi
     }
 }
